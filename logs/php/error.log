@@ -1,0 +1,2 @@
+[22-Aug-2024 21:08:58 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\Nacho\Local Sites\comexnew\app\public\wp-includes\rest-api\endpoints\class-wp-rest-autosaves-controller.php on line 167
+[22-Aug-2024 21:08:58 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\Nacho\Local Sites\comexnew\app\public\wp-includes\rest-api\endpoints\class-wp-rest-autosaves-controller.php on line 167
