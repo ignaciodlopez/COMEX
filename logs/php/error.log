@@ -1,2 +1,4 @@
 [22-Aug-2024 21:08:58 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\Nacho\Local Sites\comexnew\app\public\wp-includes\rest-api\endpoints\class-wp-rest-autosaves-controller.php on line 167
 [22-Aug-2024 21:08:58 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\Nacho\Local Sites\comexnew\app\public\wp-includes\rest-api\endpoints\class-wp-rest-autosaves-controller.php on line 167
+[11-Sep-2024 19:50:07 UTC] Error de evento de reprogramación de cron para el hook: action_scheduler_run_queue. Código de error: invalid_schedule. Mensaje de error: El evento programado no existe.. Datos: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[12-Sep-2024 14:44:12 UTC] Error de evento de reprogramación de cron para el hook: wp_privacy_delete_old_export_files. Código de error: could_not_set. Mensaje de error: No se pudo guardar la lista de eventos del cron.. Datos: {"schedule":"hourly","args":[],"interval":3600}
